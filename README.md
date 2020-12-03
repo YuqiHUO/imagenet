@@ -1,6 +1,7 @@
 # ImageNet Validation in PyTorch
 
 This implements training of your model architectures on the ImageNet dataset.
+More details, please see [original version from pytorch](https://github.com/pytorch/examples/tree/master/imagenet)
 
 ## Requirements
 
